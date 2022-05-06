@@ -1,0 +1,7 @@
+.idea
+*.log
+.swp
+__pycache__
+*.js
+settings_bak.py
+*.sh
